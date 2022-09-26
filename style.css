@@ -1161,6 +1161,11 @@ margin-left: 70px;
   padding: 2px;
    
   }
+      
+    .services-list div:hover{
+    background:#464646 ;
+    transform:translateY(-10px);
+}
 
   hr {
     width: 79%;
